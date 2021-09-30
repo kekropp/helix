@@ -1,6 +1,6 @@
 applicationType: default
-defaultPackage: helix
+defaultPackage: io.bitgrid
 testFramework: junit
 sourceLanguage: java
 buildTool: gradle
-features: [app-name, gradle, http-client, java, java-application, junit, logback, netty-server, readme, shade, yaml]
+features: [app-name, asciidoctor, elasticsearch, github-workflow-graal-docker-registry, graalvm, gradle, http-client, java, java-application, junit, logback, mockito, netty-server, openapi, readme, shade, yaml]
